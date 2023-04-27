@@ -7,7 +7,7 @@
 <?import javafx.scene.control.*?>
 <?import javafx.scene.layout.*?>
 
-<GridPane alignment="TOP_LEFT" hgap="8.0" vgap="0.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="com.example.enhancedtipcalculator.EnhancedTipCalculatorController">
+<GridPane alignment="TOP_LEFT" hgap="8.0" vgap="0.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="EnhancedTipCalculatorController">
     <children>
         <Label text="Party Size" textAlignment="RIGHT" GridPane.columnIndex="0" GridPane.rowIndex="0" />
         <Label text="Amount" textAlignment="RIGHT" GridPane.columnIndex="0" GridPane.rowIndex="1" />
